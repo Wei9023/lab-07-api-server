@@ -1,0 +1,22 @@
+{
+  "name": "lab-07-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wei9023/lab-07-api-server.git"
+  },
+  "author": "vanessa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wei9023/lab-07-api-server/issues"
+  },
+  "homepage": "https://github.com/Wei9023/lab-07-api-server#readme"
+}
